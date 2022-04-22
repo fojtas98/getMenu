@@ -1,1 +1,5 @@
-# getMenu
+- [x] lestsmeet 
+- [x] pivovar
+- [x] u telleru
+- [ ] stejkarna
+- [ ] bulvar
